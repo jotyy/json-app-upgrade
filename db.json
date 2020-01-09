@@ -1,8 +1,8 @@
 {
   "data": {
-    "appName": "Jotyy App",
+    "appName": "发现新版本",
     "appVersion": "1.0.1",
-    "upgradeDesc": "1.A new feature is coming\n 2.All Bugs fixed",
+    "upgradeDesc": "1.A new feature is coming\n2.All Bugs fixed",
     "upgradeType": 0,
     "downloadUrl": "https://github.com/jotyy/json-app-upgrade/raw/master/jotyy-app.apk"
    }
