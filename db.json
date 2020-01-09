@@ -4,6 +4,6 @@
     "appVersion": "1.0.1",
     "upgradeDesc": "1.A new feature is coming\n 2.All Bugs fixed",
     "upgradeType": 0,
-    "downloadUrl": "https://github.com/jotyy/json-app-upgrade/jotyy-app.apk"
+    "downloadUrl": "https://github.com/jotyy/json-app-upgrade/raw/master/jotyy-app.apk"
    }
 }
