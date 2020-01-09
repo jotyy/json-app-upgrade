@@ -1,4 +1,6 @@
 {
+  "code": 200,
+  "msg": "获取成功",
   "data": {
     "appName": "发现新版本",
     "appVersion": "1.0.1",
